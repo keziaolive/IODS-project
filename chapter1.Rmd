@@ -9,5 +9,16 @@
 date()
 
 ```
-The text continues here.
 
+##How are you feeling right now? 
+I think the course will require quite *some* time and effort investment (more than I imagined),\ 
+but since I have experienced using R in general it shouldn't be too challenging.
+
+##What do you expect to learn?
+I want to have a good workflow in R:  
+  - managing my datasets while working,
+  - making sure the data I use is publication ready & reproducible
+  
+##Where did you hear about the course?
+The course suggestion appeared in my email, and after looking through the course description \ 
+I thought it would be helpful. 
