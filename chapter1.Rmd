@@ -4,21 +4,20 @@
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
 
 ```{r}
-# This is a so-called "R chunk" where you can write R code.
 
 date()
 
 ```
 
-##How are you feeling right now? 
-I think the course will require quite *some* time and effort investment (more than I imagined),\ 
+**How are you feeling right now?** 
+I think the course will require quite *some* time and effort investment (more than I imagined),\
 but since I have experienced using R in general it shouldn't be too challenging.
 
-##What do you expect to learn?
+**What do you expect to learn?**
 I want to have a good workflow in R:  
-  - managing my datasets while working,
-  - making sure the data I use is publication ready & reproducible
+- managing my datasets while working,  
+- making sure the data I use is publication ready & reproducible
   
-##Where did you hear about the course?
-The course suggestion appeared in my email, and after looking through the course description \ 
+**Where did you hear about the course?**
+The course suggestion appeared in my email, and after looking through the course description\
 I thought it would be helpful. 
